@@ -2,6 +2,8 @@
 
 A simulation system in Modern C++ that models the flow of energy in a smart microgrid, using components like solar panels and batteries. It demonstrates how different strategies manage power distribution between sources and loads in an energy-efficient way.
 
+![Project Preview](./smart_energy_controller.png)
+
 ---
 
 ## 🚀 Features
